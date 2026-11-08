@@ -2,7 +2,7 @@
 
 ### 🖥️ Programador · 🎨 Creador digital · 🇩🇴 República Dominicana
 
-Soy quien se sienta a construir cosas: desde un **clone de Minecraft corriendo en una Nintendo Switch en C** hasta una **plataforma web de agencia con panel de administración**. Me gusta entender el problema entero, escribir código limpio y que lo que hago se vea bien hacerlo.
+Soy quien se sienta a construir cosas: desde un **clon de Minecraft corriendo en una Nintendo Switch en C** hasta una **plataforma web de agencia con panel de administración**. Me gusta entender el problema entero, escribir código limpio y que lo que hago se vea bien hecho.
 
 ---
 
@@ -19,29 +19,12 @@ Soy quien se sienta a construir cosas: desde un **clone de Minecraft corriendo e
 
 ## 🚀 Proyectos destacados
 
-[![Hoolix](https://img.shields.io/badge/🌐_Hoolix-Agencia_creativa_+_panel-239120?style=for-the-badge)](https://github.com/RoDeluxe/Hoolix)
-[![Voxelcraft](https://img.shields.io/badge/🟩_Voxelcraft-Minecraft_en_C_para_Switch-9cf2cf?style=for-the-badge&logoColor=black)](https://github.com/RoDeluxe/Voxelcraft)
-[![AniCode](https://img.shields.io/badge/🎌_AniCode-Plataforma_de_anime-F47521?style=for-the-badge)](https://github.com/RoDeluxe/AniCode)
-[![Portafolio](https://img.shields.io/badge/🎨_Portafolio_Web-Personal-1572B6?style=for-the-badge)](https://github.com/RoDeluxe/Portafolio-Web)
-
-<table><tr><td valign="top" width="50%">
-
-### 🏢 Hoolix — proyecto principal
-Sitio web completo de una agencia creativa con **panel de administración propio**: servicios, portafolio, testimonios, mensajes, SMTP, SEO y candado de login.
-
-- `ASP.NET Core Razor Pages (.NET 10)` + `SQLite`
-- Desplegado en un servidor Debian con **Tailscale Funnel** (0 puertos abiertos)
-- [![Live](https://img.shields.io/badge/Ver_sitio-https://hoolix.tail0951c9.ts.net-239120?style=flat-square)](https://hoolix.tail0951c9.ts.net)
-
-</td><td valign="top" width="50%">
-
-### 🎮 Voxelcraft — reto técnico
-Clon de Minecraft escrito desde cero en **C** como homebrew para Nintendo Switch con CFW. Makefile, engine propio y todo en hardware de consola.
-
-- El repo con más ⭐ de mi perfil
-- C · Makefile · romfs · hw
-
-</td></tr></table>
+| Proyecto | Qué es | Link |
+|---|---|---|
+| 🟢 **[Hoolix](https://github.com/RoDeluxe/Hoolix)** | Sitio de agencia creativa con panel de administración | [![Ver sitio](https://img.shields.io/badge/Ver_sitio-hoolix.tail0951c9.ts.net-239120?style=flat-square)](https://hoolix.tail0951c9.ts.net) |
+| 🎮 **[Voxelcraft](https://github.com/RoDeluxe/Voxelcraft)** | Clon de Minecraft en C para Nintendo Switch (homebrew) | [![Repo](https://img.shields.io/badge/Ver_repo-C%20·%20Makefile-8A2BE2?style=flat-square)](https://github.com/RoDeluxe/Voxelcraft) |
+| 🎌 **[AniCode](https://github.com/RoDeluxe/AniCode)** | Plataforma de streaming de anime (maqueta web) | [![Repo](https://img.shields.io/badge/Ver_repo-HTML%20·%20JS-F47521?style=flat-square)](https://github.com/RoDeluxe/AniCode) |
+| 🎨 **[Portafolio-Web](https://github.com/RoDeluxe/Portafolio-Web)** | Mi portafolio personal | [![Repo](https://img.shields.io/badge/Ver_repo-HTML%20·%20CSS-1572B6?style=flat-square)](https://github.com/RoDeluxe/Portafolio-Web) |
 
 <details>
 <summary><b>📦 Ver todos los proyectos (13)</b></summary>
@@ -66,14 +49,13 @@ Clon de Minecraft escrito desde cero en **C** como homebrew para Nintendo Switch
 
 ---
 
-## 📊 Un vistazo a mis números
+## 🔥 Constancia y actividad
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RoDeluxe&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoDeluxe&layout=compact&theme=tokyonight&langs_count=8" />
+<img src="https://streak-stats.demolab.com?user=RoDeluxe&theme=tokyonight&locale=es" alt="racha de contribuciones" />
 
 ## 🤝 Contacto
 
-[![Hoolix](https://img.shields.io/badge/🌐_Hoolix-Sitio_web-239120?style=flat-square)](https://hoolix.tail0951c9.ts.net)
+[![Sitio](https://img.shields.io/badge/🌐_Hoolix-Sitio_web-239120?style=flat-square)](https://hoolix.tail0951c9.ts.net)
 [![GitHub](https://img.shields.io/badge/💻_GitHub-RoDeluxe-181717?style=flat-square&logo=github)](https://github.com/RoDeluxe)
 
 ---
