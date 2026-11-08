@@ -53,10 +53,4 @@ Soy quien se sienta a construir cosas: desde un **clon de Minecraft corriendo en
 
 ![Racha de contribuciones](https://streak-stats.demolab.com?user=RoDeluxe&theme=tokyonight&locale=es)
 
-## 🤝 Contacto
-
-- 🌐 **[Hoolix — sitio en vivo](https://hoolix.tail0951c9.ts.net)**
-- 💻 **[GitHub — RoDeluxe](https://github.com/RoDeluxe)**
-
----
 *Siempre aprendiendo — sígueme para ver qué construyo después* ⭐
