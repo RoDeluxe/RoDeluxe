@@ -21,10 +21,10 @@ Soy quien se sienta a construir cosas: desde un **clon de Minecraft corriendo en
 
 | Proyecto | Qué es | Link |
 |---|---|---|
-| 🟢 **[Hoolix](https://github.com/RoDeluxe/Hoolix)** | Sitio de agencia creativa con panel de administración | [![Ver sitio](https://img.shields.io/badge/Ver_sitio-hoolix.tail0951c9.ts.net-239120?style=flat-square)](https://hoolix.tail0951c9.ts.net) |
-| 🎮 **[Voxelcraft](https://github.com/RoDeluxe/Voxelcraft)** | Clon de Minecraft en C para Nintendo Switch (homebrew) | [![Repo](https://img.shields.io/badge/Ver_repo-C%20·%20Makefile-8A2BE2?style=flat-square)](https://github.com/RoDeluxe/Voxelcraft) |
-| 🎌 **[AniCode](https://github.com/RoDeluxe/AniCode)** | Plataforma de streaming de anime (maqueta web) | [![Repo](https://img.shields.io/badge/Ver_repo-HTML%20·%20JS-F47521?style=flat-square)](https://github.com/RoDeluxe/AniCode) |
-| 🎨 **[Portafolio-Web](https://github.com/RoDeluxe/Portafolio-Web)** | Mi portafolio personal | [![Repo](https://img.shields.io/badge/Ver_repo-HTML%20·%20CSS-1572B6?style=flat-square)](https://github.com/RoDeluxe/Portafolio-Web) |
+| 🟢 **[Hoolix](https://github.com/RoDeluxe/Hoolix)** | Sitio de agencia creativa con panel de administración | [🌐 Ver sitio](https://hoolix.tail0951c9.ts.net) · [Ver repo](https://github.com/RoDeluxe/Hoolix) |
+| 🎮 **[Voxelcraft](https://github.com/RoDeluxe/Voxelcraft)** | Clon de Minecraft en C para Nintendo Switch (homebrew) | [Ver detalles](https://github.com/RoDeluxe/Voxelcraft) |
+| 🎌 **[AniCode](https://github.com/RoDeluxe/AniCode)** | Plataforma de streaming de anime (maqueta web) | [Ver repo](https://github.com/RoDeluxe/AniCode) |
+| 🎨 **[Portafolio-Web](https://github.com/RoDeluxe/Portafolio-Web)** | Mi portafolio personal | [Ver repo](https://github.com/RoDeluxe/Portafolio-Web) |
 
 <details>
 <summary><b>📦 Ver todos los proyectos (13)</b></summary>
@@ -51,12 +51,12 @@ Soy quien se sienta a construir cosas: desde un **clon de Minecraft corriendo en
 
 ## 🔥 Constancia y actividad
 
-<img src="https://streak-stats.demolab.com?user=RoDeluxe&theme=tokyonight&locale=es" alt="racha de contribuciones" />
+![Racha de contribuciones](https://streak-stats.demolab.com?user=RoDeluxe&theme=tokyonight&locale=es)
 
 ## 🤝 Contacto
 
-[![Sitio](https://img.shields.io/badge/🌐_Hoolix-Sitio_web-239120?style=flat-square)](https://hoolix.tail0951c9.ts.net)
-[![GitHub](https://img.shields.io/badge/💻_GitHub-RoDeluxe-181717?style=flat-square&logo=github)](https://github.com/RoDeluxe)
+- 🌐 **[Hoolix — sitio en vivo](https://hoolix.tail0951c9.ts.net)**
+- 💻 **[GitHub — RoDeluxe](https://github.com/RoDeluxe)**
 
 ---
 *Siempre aprendiendo — sígueme para ver qué construyo después* ⭐
