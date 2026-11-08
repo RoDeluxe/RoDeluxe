@@ -21,10 +21,10 @@ Soy quien se sienta a construir cosas: desde un **clon de Minecraft corriendo en
 
 | Proyecto | Qué es | Link |
 |---|---|---|
-| 🟢 **[Hoolix](https://github.com/RoDeluxe/Hoolix)** | Sitio de agencia creativa con panel de administración | [🌐 Ver sitio](https://hoolix.tail0951c9.ts.net) · [Ver repo](https://github.com/RoDeluxe/Hoolix) |
-| 🎮 **[Voxelcraft](https://github.com/RoDeluxe/Voxelcraft)** | Clon de Minecraft en C para Nintendo Switch (homebrew) | [Ver detalles](https://github.com/RoDeluxe/Voxelcraft) |
-| 🎌 **[AniCode](https://github.com/RoDeluxe/AniCode)** | Plataforma de streaming de anime (maqueta web) | [Ver repo](https://github.com/RoDeluxe/AniCode) |
-| 🎨 **[Portafolio-Web](https://github.com/RoDeluxe/Portafolio-Web)** | Mi portafolio personal | [Ver repo](https://github.com/RoDeluxe/Portafolio-Web) |
+| 🟢 **[Hoolix](https://github.com/RoDeluxe/Hoolix)** | Sitio de agencia creativa con panel de administración | https://hoolix.tail0951c9.ts.net · https://github.com/RoDeluxe/Hoolix |
+| 🎮 **[Voxelcraft](https://github.com/RoDeluxe/Voxelcraft)** | Clon de Minecraft en C para Nintendo Switch (homebrew) | https://github.com/RoDeluxe/Voxelcraft |
+| 🎌 **[AniCode](https://github.com/RoDeluxe/AniCode)** | Plataforma de streaming de anime (maqueta web) | https://github.com/RoDeluxe/AniCode |
+| 🎨 **[Portafolio-Web](https://github.com/RoDeluxe/Portafolio-Web)** | Mi portafolio personal | https://github.com/RoDeluxe/Portafolio-Web |
 
 <details>
 <summary><b>📦 Ver todos los proyectos (13)</b></summary>
