@@ -1,8 +1,6 @@
 # ¡Hola! Soy Ronaldo Gutierrez 👋
 
-### 🖥️ Programador · 🎨 Creador digital · 🇩🇴 República Dominicana
-
-Soy quien se sienta a construir cosas: desde un **clon de Minecraft corriendo en una Nintendo Switch en C** hasta una **plataforma web de agencia con panel de administración**. Me gusta entender el problema entero, escribir código limpio y que lo que hago se vea bien hecho.
+### 🖥️ Programador ·  🇩🇴 República Dominicana
 
 ---
 
